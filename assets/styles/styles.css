@@ -1,0 +1,42 @@
+body {
+    background-color: pink;
+    font-family: cursive;
+    font-size: 36px;
+    text-align: center;
+    /*background-image: url('../images/heart_swirls.png');*/
+    /*background: linear-gradient(rgba(219,2,23,.5), rgba(219,2,23,1), url('../images/heart_swirls.png'));*/
+}
+
+section {
+    background-color: lightcoral;
+    margin: auto 10%;
+    padding: 20px;
+    text-align: center;
+}
+
+form {
+    background-color: firebrick;
+    color: beige;
+    border-color: aliceblue;
+    border-style: double;
+    border-width: 50%;
+    border-radius: 10%;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+em {
+    font-family: sans-serif;
+    font-style: normal;
+    font-size: 60px;
+}
+
+.css {
+    color: beige;
+}
+
+.html {
+    color: pink;
+}
